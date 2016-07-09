@@ -1,5 +1,4 @@
-# project01 : Starter
-
+# Starter project01
 
 ## Introduction
 
