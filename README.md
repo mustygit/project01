@@ -8,7 +8,7 @@ I am going to test some basics commands of git
 
 ## Purpose
 
-This is a beginner project to test some useful Git commands
+This is a beginner project to test some usefuls Git commands
 
 ## How To Contribute
 
