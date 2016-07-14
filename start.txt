@@ -5,4 +5,5 @@ and a third one
 new line to test no-fast-forward
 
 another line
+change without conflict
 
