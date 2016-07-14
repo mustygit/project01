@@ -17,4 +17,5 @@ You can fork it or ... No. it does not worth it. ;-)
 ## Annexes
 
 Feel free to experiment
+and report your result
 
