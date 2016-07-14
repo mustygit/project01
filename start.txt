@@ -1,3 +1,6 @@
 This is the first test file
 And this is the second line of this file
 and a third one
+
+new line to test no-fast-forward
+
